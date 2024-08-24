@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "npm install -g yarn && cd web && yarn install && yarn vite build"
+  },
+  "dependencies": {
+    "@chakra-ui/toast": "^7.0.2"
+  }
+}
